@@ -1,0 +1,10 @@
+[package]
+name = "pg"
+version = "0.1.0"
+authors = ["M Farkas-Dyck <strake888@gmail.com>"]
+description = "Page Tables"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
+flags = "0.1"
+real-memory = "0.1.1"
